@@ -18,7 +18,7 @@ function Home() {
                 <div className="w-full md:w-1/2 flex justify-center mb-8 md:mb-0">
                     <div className="w-60 h-60 md:w-80 md:h-80 imageDiv">
                         <img
-                            src="https://asset.cloudinary.com/dmp3kzyrb/57772bc81f7c3407f8381f24999a0648"
+                            src="https://res.cloudinary.com/dmp3kzyrb/image/upload/v1746607576/WhatsApp_Image_2025-05-07_at_14.15.06_nbqqx1.jpg"
                             alt="Profile"
                             className="rounded-full object-cover w-full h-full"
                         />
