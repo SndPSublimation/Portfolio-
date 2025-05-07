@@ -1,5 +1,5 @@
 import React, { useContext, useState } from 'react';
-import './NavBar.css';
+import './navBar.css';
 import { NavLink } from 'react-router-dom';
 import ModeContext from '../../context/ModeContext'
 
