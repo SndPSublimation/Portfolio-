@@ -24,7 +24,7 @@ function NavBar() {
                         className="flex   items-center space-x-3 rtl:space-x-reverse"
                     >
                         <div className="navBarLogoImage">
-                            <img src="../public/logo/logo.jpg" className="logoImage" alt="Logo" />
+                            <img src="https://res.cloudinary.com/dmp3kzyrb/image/upload/v1746607575/WhatsApp_Image_2025-05-07_at_14.14.53_mtgdzd.jpg" className="logoImage" alt="Logo" />
                         </div>
                     </NavLink>
                     <div className="flex gap-1 md:order-2 space-x-3 md:space-x-0 rtl:space-x-reverse ">
