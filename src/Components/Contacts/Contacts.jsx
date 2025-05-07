@@ -25,13 +25,14 @@ function Contacts() {
                     </div>
                     <div>
                     <a 
-                        href="https://mail.google.com/mail/u/0/#sent?compose=DmwnWrRvxMPphlthsZMXvSjjFwCzCJwpWfRKCrqwzzptQvzxpWrTWnFDDhMpTQHMmlZsdWgSSPBv" 
-                        rel="noopener noreferrer" 
-                        target="_blank" 
-                        className="text-3xl text-gray-700 dark:text-gray-300 hover:text-red-500 dark:hover:text-red-400"
-                        >
-                        <i className="fas fa-envelope"></i>
+                      href="mailto:sndpsublimation@gmail.com" 
+                      rel="noopener noreferrer" 
+                      target="_blank" 
+                      className="text-3xl text-gray-700 dark:text-gray-300 hover:text-red-500 dark:hover:text-red-400"
+                    >
+                      <i className="fas fa-envelope"></i>
                     </a>
+
                     </div>
                     <div>
                         <a href="https://www.instagram.com/sp_sublimation" target="_blank" rel="noopener noreferrer" className="text-3xl text-gray-700 dark:text-gray-300 hover:text-pink-500 dark:hover:text-pink-400">
