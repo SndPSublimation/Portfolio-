@@ -1,0 +1,16 @@
+.navBarLogoImage {    /* Perfect circle */
+    border-radius: 1rem;
+    overflow: hidden;
+    height: 3rem;
+    width: 9rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;   /* Optional: background for better contrast */
+}
+
+.logoImage {
+    height: 100%;
+    width: auto;               /* Maintain aspect ratio */
+    object-fit: contain;       /* Ensures full image is shown inside the container */
+}
